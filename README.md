@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi0611&label=Profile%20views&color=0e75b6&style=flat" alt="khushi0611" /> </p>
 
 - 👋 Hi, I’m Khushi Agarwal
-- 👀 I’m interested creating software and website
+- 👀 I’m interested in Machine Learning, Artificial Intelligence, Data Science
 - 🌱 I’m currently learning Btech
 - 💞️ I any looking to collaborate with me ...
 - 📫 khushi2021csai097@abesit.edu.in
